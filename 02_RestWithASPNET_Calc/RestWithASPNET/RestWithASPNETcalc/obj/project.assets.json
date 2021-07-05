@@ -198,11 +198,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\RestWithASP.NET\\RestWithASP.NET\\00_RestWithASPNET_Scaffold_Terminal\\RestWithASPNET\\RestWithASPNET.csproj",
-      "projectName": "RestWithASPNET",
-      "projectPath": "D:\\RestWithASP.NET\\RestWithASP.NET\\00_RestWithASPNET_Scaffold_Terminal\\RestWithASPNET\\RestWithASPNET.csproj",
+      "projectUniqueName": "D:\\RestWithASP.NET\\RestWithASP.NET\\02_RestWithASPNET_Calc\\RestWithASPNET\\RestWithASPNETcalc\\RestWithASPNETcalc.csproj",
+      "projectName": "RestWithASPNETcalc",
+      "projectPath": "D:\\RestWithASP.NET\\RestWithASP.NET\\02_RestWithASPNET_Calc\\RestWithASPNET\\RestWithASPNETcalc\\RestWithASPNETcalc.csproj",
       "packagesPath": "C:\\Users\\dante\\.nuget\\packages\\",
-      "outputPath": "D:\\RestWithASP.NET\\RestWithASP.NET\\00_RestWithASPNET_Scaffold_Terminal\\RestWithASPNET\\obj\\",
+      "outputPath": "D:\\RestWithASP.NET\\RestWithASP.NET\\02_RestWithASPNET_Calc\\RestWithASPNET\\RestWithASPNETcalc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dante\\AppData\\Roaming\\NuGet\\NuGet.Config",

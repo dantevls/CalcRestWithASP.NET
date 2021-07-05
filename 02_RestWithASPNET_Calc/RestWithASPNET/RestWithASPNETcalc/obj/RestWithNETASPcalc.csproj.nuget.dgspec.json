@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RestWithASP.NET\\RestWithASP.NET\\00_RestWithASPNET_Scaffold_Terminal\\RestWithASPNET\\RestWithASPNET.csproj": {}
+    "D:\\RestWithASP.NET\\RestWithASP.NET\\03_RestWithASPNET_Calc\\RestWithASPNET\\RestWithNETASPcalc\\RestWithNETASPcalc.csproj": {}
   },
   "projects": {
-    "D:\\RestWithASP.NET\\RestWithASP.NET\\00_RestWithASPNET_Scaffold_Terminal\\RestWithASPNET\\RestWithASPNET.csproj": {
+    "D:\\RestWithASP.NET\\RestWithASP.NET\\03_RestWithASPNET_Calc\\RestWithASPNET\\RestWithNETASPcalc\\RestWithNETASPcalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RestWithASP.NET\\RestWithASP.NET\\00_RestWithASPNET_Scaffold_Terminal\\RestWithASPNET\\RestWithASPNET.csproj",
-        "projectName": "RestWithASPNET",
-        "projectPath": "D:\\RestWithASP.NET\\RestWithASP.NET\\00_RestWithASPNET_Scaffold_Terminal\\RestWithASPNET\\RestWithASPNET.csproj",
+        "projectUniqueName": "D:\\RestWithASP.NET\\RestWithASP.NET\\03_RestWithASPNET_Calc\\RestWithASPNET\\RestWithNETASPcalc\\RestWithNETASPcalc.csproj",
+        "projectName": "RestWithNETASPcalc",
+        "projectPath": "D:\\RestWithASP.NET\\RestWithASP.NET\\03_RestWithASPNET_Calc\\RestWithASPNET\\RestWithNETASPcalc\\RestWithNETASPcalc.csproj",
         "packagesPath": "C:\\Users\\dante\\.nuget\\packages\\",
-        "outputPath": "D:\\RestWithASP.NET\\RestWithASP.NET\\00_RestWithASPNET_Scaffold_Terminal\\RestWithASPNET\\obj\\",
+        "outputPath": "D:\\RestWithASP.NET\\RestWithASP.NET\\03_RestWithASPNET_Calc\\RestWithASPNET\\RestWithNETASPcalc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dante\\AppData\\Roaming\\NuGet\\NuGet.Config",

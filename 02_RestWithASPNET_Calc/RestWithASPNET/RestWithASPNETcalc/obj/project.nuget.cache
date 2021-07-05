@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k7tVw4M37JcwZJB+pzPisL4h1FnLixcYAHAmwW42fncy+w6u1kckvazVppmMbL70Ea3nI6ia6xSO3p8nSGpv9g==",
+  "dgSpecHash": "Qz2YRV/Lhork4Zlau3hVbeMp06oQtGa+ptq4bKNv2rR2b+rIKCgxYFPQF63d/ftp+i6BDbc6LRM9p2DyMQq7bw==",
   "success": true,
-  "projectFilePath": "D:\\RestWithASP.NET\\RestWithASP.NET\\00_RestWithASPNET_Scaffold_Terminal\\RestWithASPNET\\RestWithASPNET.csproj",
+  "projectFilePath": "D:\\RestWithASP.NET\\RestWithASP.NET\\02_RestWithASPNET_Calc\\RestWithASPNET\\RestWithASPNETcalc\\RestWithASPNETcalc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dante\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\dante\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
