@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dante\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dante\\.nuget\\packages"
+    ]
+  }
+}
